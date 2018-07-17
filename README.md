@@ -1,9 +1,9 @@
 # Dnd-visual-basic
 
-To activate VBA ( visual basic ) at excel 2 steps:
+To activate VBA ( visual basic ) at excel 2 steps:\b
 FIle-> options -> customize ribon - > developer tools
 
-
+\b
 File -> options -> Trust center -> Trust settings -> Macro settings -> DIsable all macros with notifications or enable or Macros
 
 
