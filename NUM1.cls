@@ -9,14 +9,14 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = True
 Sub BUFFS_UPDATE()
 
-numberOfBuffs = ActiveSheet.Range("B32")
+numberOfBuffs = ActiveSheet.Range("B33")
 
 'edw exoume to Basico group gia tis praxeis, exodos'
-Set FirstGroup = ActiveSheet.Range("J6", "AH25")
-Set Competence = ActiveSheet.Range("AI6", "AJ25")
+Set FirstGroup = ActiveSheet.Range("R6", "AP26")
+Set Competence = ActiveSheet.Range("AQ6", "AR26")
 
 'edw exoume ta types'
-Set Type1Ancor = ActiveSheet.Range("D34")
+Set Type1Ancor = ActiveSheet.Range("F34")
 Set Type2Ancor = ActiveSheet.Range("J34")
 Set Type3Ancor = ActiveSheet.Range("O34")
 
@@ -39,7 +39,7 @@ Set Type3Ancor = ActiveSheet.Range("O34")
     Set e = ActiveSheet.Cells(4, a)  'modifcations
     
    
-    Z = Type1Ancor.Offset(y, 4).Value
+    Z = Type1Ancor.Offset(y, -1).Value
     f = Type1Ancor.Offset(y, 0).Value
     g = d.Value
     h = c.Value
@@ -131,7 +131,7 @@ Set Type3Ancor = ActiveSheet.Range("O34")
     Set e = ActiveSheet.Cells(4, a)  'modifcations
     
    
-    Z = Type1Ancor.Offset(y, 4).Value
+    Z = Type1Ancor.Offset(y, -1).Value
     f = Type1Ancor.Offset(y, 0).Value
     g = d.Value
     h = c.Value
@@ -210,8 +210,9 @@ End Sub
 
 
 Sub DURATION()
+Attribute DURATION.VB_ProcData.VB_Invoke_Func = "D\n14"
 
-numberOfBuffs = ActiveSheet.Range("B32")
+numberOfBuffs = ActiveSheet.Range("B33")
 
 
 Set spellDuration = ActiveSheet.Range("C35")
