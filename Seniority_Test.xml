@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jobs>
+	<job>
+		<id>Test_seniority1 Take 2 Take 2</id>
+		<title>Test Job Title</title>
+		<description>Test description - testing the seniority map</description>
+		<location>
+			<city>Athens</city>
+			<country>GR</country>
+		</location>
+		<category>
+			<onetCode>13-1199</onetCode>
+			<name>OTHER</name>
+		</category>
+		<promoted>
+			<type/>
+		</promoted>
+		<coverPhotoUrl/>
+		<partner>
+			<name/>
+			<logoUrl/>
+		</partner>
+		<links>
+			<source>https://jobexport.de/xml/gohiring/careerbuilder.xml</source>
+			<detailsUrl>https://t.gohiring.com/h/00aa5224c1467b5cf32e0f8d88ddeea0f46b04c138683e07d6f5b5c040279a37</detailsUrl>
+			<applyURL>https://t.gohiring.com/h/00aa5224c1467b5cf32e0f8d88ddeea0f46b04c138683e07d6f5b5c040279a37</applyURL>
+			<cvForwardingEmail/>
+		</links>
+		<remote>DISABLED</remote>
+		<occupation>FULL_TIME</occupation>
+		<experience>
+			<min/>
+			<max/>
+		</experience>
+		<languages>
+			<language/>
+		</languages>
+	</job>
+	<job>
+		<id>Test_seniority2 Take 2</id>
+		<title>Test Job Title</title>
+		<description>Test description - testing the seniority map</description>
+		<location>
+			<city>Athens</city>
+			<country>GR</country>
+		</location>
+		<category>
+			<onetCode>11-9199</onetCode>
+			<name>OTHER</name>
+		</category>
+		<promoted>
+			<type/>
+		</promoted>
+		<coverPhotoUrl/>
+		<partner>
+			<name/>
+			<logoUrl/>
+		</partner>
+		<links>
+			<source>https://jobexport.de/xml/gohiring/careerbuilder.xml</source>
+			<detailsUrl>https://t.gohiring.com/h/00aa5224c1467b5cf32e0f8d88ddeea0f46b04c138683e07d6f5b5c040279a37</detailsUrl>
+			<applyURL>https://t.gohiring.com/h/00aa5224c1467b5cf32e0f8d88ddeea0f46b04c138683e07d6f5b5c040279a37</applyURL>
+			<cvForwardingEmail/>
+		</links>
+		<remote>DISABLED</remote>
+		<occupation>FULL_TIME</occupation>
+		<experience>
+			<min></min>
+			<max></max>
+		</experience>
+		<languages>
+			<language/>
+		</languages>
+	</job>
+	<job>
+		<id>Test_seniority3 Take 2</id>
+		<title>Test Job Title</title>
+		<description>Test description - testing the seniority map</description>
+		<location>
+			<city>Athens</city>
+			<country>GR</country>
+		</location>
+		<category>
+			<onetCode>49-9071</onetCode>
+			<name>OTHER</name>
+		</category>
+		<promoted>
+			<type/>
+		</promoted>
+		<coverPhotoUrl/>
+		<partner>
+			<name/>
+			<logoUrl/>
+		</partner>
+		<links>
+			<source>https://jobexport.de/xml/gohiring/careerbuilder.xml</source>
+			<detailsUrl>https://t.gohiring.com/h/00aa5224c1467b5cf32e0f8d88ddeea0f46b04c138683e07d6f5b5c040279a37</detailsUrl>
+			<applyURL>https://t.gohiring.com/h/00aa5224c1467b5cf32e0f8d88ddeea0f46b04c138683e07d6f5b5c040279a37</applyURL>
+			<cvForwardingEmail/>
+		</links>
+		<remote>DISABLED</remote>
+		<occupation>FULL_TIME</occupation>
+		<experience>
+			<min>-1</min>
+			<max>-1</max>
+		</experience>
+		<languages>
+			<language/>
+		</languages>
+	</job>
+</jobs>
